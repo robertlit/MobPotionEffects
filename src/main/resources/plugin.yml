@@ -1,0 +1,5 @@
+name: MobPotionEffects
+version: ${project.version}
+main: me.robertlit.mobpotioneffects.MobPotionEffects
+api-version: 1.16
+authors: [robertlit]

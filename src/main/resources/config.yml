@@ -1,0 +1,15 @@
+effects:
+  - SPEED
+  - REGENERATION
+  - INVISIBILITY
+
+mobs:
+  - ZOMBIE
+  - CREEPER
+  - SPIDER
+  - BAT
+  - SKELETON
+
+chance: 10
+
+level-2-chance: 5
